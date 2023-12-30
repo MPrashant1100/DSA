@@ -14,5 +14,6 @@ const stairCase = (n) => {
     }
 }
 
+// Test Case 
 const stairArray = [9];
 const result = stairCase(stairArray);
