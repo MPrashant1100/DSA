@@ -20,3 +20,4 @@ const breakingRecords = (scores) => {
 
 const scores = [12, 24, 10, 24, 16, 25];
 console.log(breakingRecords(scores));
+console.log(breakingRecords(scores));
