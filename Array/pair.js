@@ -5,7 +5,7 @@ function sockMerchant(n, ar) {
     for (let i = 0; i < n - 1; i++) {
         if (ar[i] === ar[i + 1]) {
             pairs++;
-            i++; // Move to the next pair directly
+            i++; 
         }
     }
 
