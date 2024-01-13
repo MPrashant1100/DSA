@@ -1,6 +1,6 @@
 const numbers = [2, 2, 5, 6, 8];
 
-const sentences = ["Play", "Game"];
+const sentences = ["Play", "Game" , "Abhishek"];
 
 const tableOfTwo = numbers.map((number) => {
   return number * 5;
