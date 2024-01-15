@@ -10,5 +10,4 @@ const recurciveFib = (n) => {
 }
 
 
-console.log(recurciveFib(9));
 console.log(recurciveFib(11));

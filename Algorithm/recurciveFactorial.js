@@ -9,4 +9,5 @@ const recurciveFactorial = (n) => {
 
 
 console.log(recurciveFactorial(5))
+console.log(recurciveFactorial(9))
 console.log(recurciveFactorial(4))
