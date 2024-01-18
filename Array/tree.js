@@ -15,7 +15,12 @@ function utopianTree(n) {
 }
 
 
+
 const testCases = [0, 1, 4, 5];
+for (const testCase of testCases) {
+    console.log(`After ${testCase} cycles, the height is ${utopianTree(testCase)}`);
+}
+const test2Cases = [0, 1, 4, 5];
 for (const testCase of testCases) {
     console.log(`After ${testCase} cycles, the height is ${utopianTree(testCase)}`);
 }
