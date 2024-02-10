@@ -12,4 +12,6 @@ const cartesianProd = (ar1, ar2) => {
 
 const arr1 = [2,5,6]
 const arr2 = [1,3,6]
+const arr3 = [1,6,3]
 console.log(cartesianProd(arr1,arr2));
+console.log(cartesianProd(arr1,arr3));
