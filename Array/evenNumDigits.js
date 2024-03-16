@@ -13,7 +13,7 @@ const evenNumDigit = (nums) => {
 };
 
 // Test cases
-const nums1 = [12, 1, 0, 199, 1, 1444];
+const nums1 = [12, 1, 0, 199, 1, 144];
 console.log(evenNumDigit(nums1)); 
 
 const nums2 = [ 52, 189, 148, 511];
