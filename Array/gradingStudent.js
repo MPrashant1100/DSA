@@ -14,5 +14,5 @@ return roundedGrade ;
 }
 
 
-const array = [78,20,48,52,69];
+const array = [78,20,48,52];
 const result = console.log(gradingStudents(array));
