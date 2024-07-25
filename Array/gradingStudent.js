@@ -5,7 +5,7 @@ const gradingStudents = (grades) => {
         const multipleOfFive = Math.ceil(grade/5) * 5 ;
 
         if(multipleOfFive - grade < 3) {
-            return multipleOfFive ;
+            return multipleOfFive 
         }
     }
 })
